@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+    color:black;
+    font-family: helvetica;
+    font-size: 14px;
+}
+
+.reverse {
+    background-color: pink !important;
+    color:aliceblue;
+}
+p {
+    padding :20px:;
+}
